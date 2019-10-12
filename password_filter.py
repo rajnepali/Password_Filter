@@ -57,7 +57,7 @@ def main():
 	count=0
 
 	if len(sys.argv) != 3:
-		print "[+] Usage: python clean.py input_file output_file"
+		print "[+] Usage: python password_filter.py input_file output_file"
 		exit(1)
 
 	input_file = sys.argv[1]
