@@ -7,4 +7,4 @@ I used this for my project and hopefully this would be useful for others. I will
 Good for both Red Team and Blue Team :)
 
 Examples:
-python3 password_filter.py -L10 -UlSN -i /home/thedoc/Desktop/passwords/ -o output.txt
+python3 password_filter.py -L10 -UlSN -i /home/titan/Desktop/passwords/ -o output.txt
